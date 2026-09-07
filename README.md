@@ -72,10 +72,3 @@ python manejo_errores.py
 ```
 
 ---
-
-## 👨‍💻 Proyecto escolar
-
-**Tema:** Herramientas para el manejo de errores en programación
-**Lenguaje:** Python 🐍
-
-> 💡 El programa fue realizado como ejemplo práctico para demostrar diferentes formas de detectar y manejar errores durante la ejecución.

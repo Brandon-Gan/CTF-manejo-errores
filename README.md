@@ -48,7 +48,3 @@ El proyecto contiene el siguiente archivo:
 ```text
 manejo_errores.py
 ```
-
-## 🎯 Objetivo
-
-El objetivo de este ejercicio es poner en práctica diferentes herramientas para el **manejo de errores** y observar cómo ayudan a evitar que un programa termine inesperadamente al recibir datos incorrectos.
